@@ -1,4 +1,5 @@
 jenkins/.**
+jenkins/**
 jenkins/war/**
 jenkins/plugins/**
 jenkins/copy_reference_file.log
@@ -14,3 +15,21 @@ jenkins/updates/*
 jenkins/upgraded
 jenkins/init.groovy.d/*
 jenkins/users/*
+jenkins/config.xml
+jenkins/fingerprints/*
+jenkins/hudson.model.UpdateCenter.xml
+jenkins/hudson.plugins.git.GitTool.xml
+jenkins/identity.key.enc
+jenkins/jenkins.CLI.xml
+jenkins/jenkins.install.InstallUtil.lastExecVersion
+jenkins/jenkins.install.UpgradeWizard.state
+jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+jenkins/jenkins.telemetry.Correlator.xml
+jenkins/jobs/*
+jenkins/nodeMonitors.xml
+jenkins/org.jenkinsci.plugins.github_branch_source.GitHubSCMProbe.cache/*	
+jenkins/org.jenkinsci.plugins.workflow.flow.FlowExecutionList.xml
+jenkins/queue.xml
+jenkins/userContent/*
+jenkins/workspace/*
+
